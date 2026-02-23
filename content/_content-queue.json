@@ -1,8 +1,126 @@
 {
-  "queue": [],
+  "queue": [
+    {
+      "id": "kw-001",
+      "keyword": "AI marketing automation case studies",
+      "title": "3 AI Marketing Automation Case Studies: Real Results from Real Implementations",
+      "contentType": "case-study",
+      "targetVentures": ["Stormbreaker Digital", "LeadStorm AI"],
+      "scores": {
+        "entityFit": 4,
+        "contentGap": 5,
+        "intentMatch": 5,
+        "competition": 4,
+        "crossLinkPotential": 5,
+        "total": 23
+      },
+      "rationale": "Very few authentic case studies exist in this space. Matt has real client stories to share. High cross-link potential to multiple ventures. Low competition for genuine results.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "ai-marketing-automation-case-studies",
+      "estimatedWordCount": 2000,
+      "secondaryKeywords": ["marketing automation ROI", "AI email automation results", "automated lead nurturing case study"],
+      "autoPublish": false,
+      "createdAt": "2026-02-23T08:15:00Z"
+    },
+    {
+      "id": "kw-002",
+      "keyword": "how to build autonomous AI agent teams",
+      "title": "How to Build Autonomous AI Agent Teams: A Complete Technical Guide",
+      "contentType": "technical-deep-dive",
+      "targetVentures": ["OpenClaw", "Stormbreaker Digital"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 3,
+        "crossLinkPotential": 4,
+        "total": 21
+      },
+      "rationale": "Core IP area for Matt with OpenClaw. Few comprehensive guides exist on building multi-agent systems that actually work together. Positions Matt as the authority on autonomous AI teams.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "how-to-build-autonomous-ai-agent-teams",
+      "estimatedWordCount": 2500,
+      "secondaryKeywords": ["multi-agent AI architecture", "AI agent orchestration", "autonomous agent workflow", "OpenClaw agents"],
+      "autoPublish": false,
+      "createdAt": "2026-02-23T08:15:00Z"
+    },
+    {
+      "id": "kw-003",
+      "keyword": "AI text message evidence family law",
+      "title": "How AI Analyzes Text Message Evidence for Family Law Cases",
+      "contentType": "technical-deep-dive",
+      "targetVentures": ["TextEvidence.ai"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 5,
+        "crossLinkPotential": 2,
+        "total": 21
+      },
+      "rationale": "Extremely niche keyword with virtually no competition. Direct product connection to TextEvidence.ai. Demonstrates real AI application in legal tech. Easy win for ranking.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "ai-text-message-evidence-family-law",
+      "estimatedWordCount": 1800,
+      "secondaryKeywords": ["text message evidence analysis", "AI for divorce attorneys", "legal document AI", "family law technology"],
+      "autoPublish": false,
+      "createdAt": "2026-02-23T08:15:00Z"
+    },
+    {
+      "id": "kw-004",
+      "keyword": "fractional CMO AI tools",
+      "title": "The Fractional CMO's AI Toolkit: 12 Tools That Actually Deliver ROI",
+      "contentType": "how-to-guide",
+      "targetVentures": ["Stormbreaker Digital", "LeadStorm AI"],
+      "scores": {
+        "entityFit": 4,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 4,
+        "crossLinkPotential": 4,
+        "total": 21
+      },
+      "rationale": "Intersection keyword with weak coverage. Positions Stormbreaker as the AI-forward fractional CMO option. Good search volume from businesses researching fractional CMO services.",
+      "priority": "medium",
+      "status": "queued",
+      "suggestedSlug": "fractional-cmo-ai-tools",
+      "estimatedWordCount": 2200,
+      "secondaryKeywords": ["fractional CMO services", "AI marketing tools", "marketing automation for startups", "outsourced CMO AI"],
+      "autoPublish": false,
+      "createdAt": "2026-02-23T08:15:00Z"
+    },
+    {
+      "id": "kw-005",
+      "keyword": "building products with AI agents",
+      "title": "How I Built 5 Products in 6 Months Using Autonomous AI Agents",
+      "contentType": "case-study",
+      "targetVentures": ["TextEvidence.ai", "Skill Refinery", "CigarSnap", "HeyBaddie", "LeadStorm AI"],
+      "scores": {
+        "entityFit": 4,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 3,
+        "crossLinkPotential": 5,
+        "total": 21
+      },
+      "rationale": "Personal brand story that showcases all ventures. Few genuine builder stories with actual AI agent implementation. Strong social proof angle. Can reference every product in portfolio.",
+      "priority": "medium",
+      "status": "queued",
+      "suggestedSlug": "building-products-with-ai-agents",
+      "estimatedWordCount": 2500,
+      "secondaryKeywords": ["rapid product development", "AI startup founder", "solo founder AI tools", "bootstrapped SaaS AI"],
+      "autoPublish": false,
+      "createdAt": "2026-02-23T08:15:00Z"
+    }
+  ],
   "metadata": {
-    "lastUpdated": "2026-02-22T00:00:00Z",
+    "lastUpdated": "2026-02-23T08:15:00Z",
     "totalPublished": 0,
-    "totalQueued": 0
+    "totalQueued": 5,
+    "lastResearchDate": "2026-02-23T08:15:00Z",
+    "researcherNote": "Weekly keyword research completed. Top opportunities identified in AI agent teams, marketing automation case studies, legal tech AI, fractional CMO positioning, and personal builder story. All opportunities score 21-23/25 with strong entity fit and content gaps."
   }
 }
