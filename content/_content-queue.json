@@ -16,13 +16,17 @@
       },
       "rationale": "Very few authentic case studies exist in this space. Matt has real client stories to share. High cross-link potential to multiple ventures. Low competition for genuine results.",
       "priority": "high",
-      "status": "in-progress",
+      "status": "published",
       "startedAt": "2026-02-24T09:02:00Z",
+      "publishedAt": "2026-02-24T09:15:00Z",
       "suggestedSlug": "ai-marketing-automation-case-studies",
       "estimatedWordCount": 2000,
+      "actualWordCount": 2400,
       "secondaryKeywords": ["marketing automation ROI", "AI email automation results", "automated lead nurturing case study"],
       "autoPublish": false,
-      "createdAt": "2026-02-23T08:15:00Z"
+      "createdAt": "2026-02-23T08:15:00Z",
+      "seoEditorScore": 91,
+      "url": "/blog/ai-marketing-automation-case-studies"
     },
     {
       "id": "kw-002",
@@ -118,10 +122,10 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-02-24T09:02:00Z",
-    "totalPublished": 0,
+    "lastUpdated": "2026-02-24T09:15:00Z",
+    "totalPublished": 1,
     "totalQueued": 4,
-    "totalInProgress": 1,
+    "totalInProgress": 0,
     "lastResearchDate": "2026-02-23T08:15:00Z",
     "researcherNote": "Weekly keyword research completed. Top opportunities identified in AI agent teams, marketing automation case studies, legal tech AI, fractional CMO positioning, and personal builder story. All opportunities score 21-23/25 with strong entity fit and content gaps."
   }
