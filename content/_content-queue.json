@@ -136,12 +136,13 @@
       },
       "rationale": "Cross-venture opportunity combining TextEvidence's legal domain expertise with Stormbreaker's marketing automation services. Underserved niche with high commercial intent from law firms seeking competitive advantage.",
       "priority": "high",
-      "status": "queued",
+      "status": "in-progress",
       "suggestedSlug": "marketing-automation-for-law-firms",
       "estimatedWordCount": 2200,
       "secondaryKeywords": ["law firm marketing automation", "legal marketing software", "attorney lead nurturing", "law practice marketing tools"],
       "autoPublish": false,
-      "createdAt": "2026-03-03T15:51:00Z"
+      "createdAt": "2026-03-03T15:51:00Z",
+      "startedAt": "2026-03-03T22:14:00Z"
     },
     {
       "id": "kw-007",
