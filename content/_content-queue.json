@@ -121,12 +121,128 @@
       "createdAt": "2026-02-23T08:15:00Z"
     }
   ],
+    {
+      "id": "kw-006",
+      "keyword": "marketing automation for law firms",
+      "title": "Marketing Automation for Law Firms: A Practical Guide for 2025",
+      "contentType": "how-to-guide",
+      "targetVentures": ["Stormbreaker Digital", "TextEvidence.ai"],
+      "scores": {
+        "entityFit": 4,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 4,
+        "crossLinkPotential": 5,
+        "total": 22
+      },
+      "rationale": "Cross-venture opportunity combining TextEvidence's legal domain expertise with Stormbreaker's marketing automation services. Underserved niche with high commercial intent from law firms seeking competitive advantage.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "marketing-automation-for-law-firms",
+      "estimatedWordCount": 2200,
+      "secondaryKeywords": ["law firm marketing automation", "legal marketing software", "attorney lead nurturing", "law practice marketing tools"],
+      "autoPublish": false,
+      "createdAt": "2026-03-03T15:51:00Z"
+    },
+    {
+      "id": "kw-007",
+      "keyword": "autonomous marketing systems",
+      "title": "Autonomous Marketing Systems: How AI Runs Marketing Without Human Intervention",
+      "contentType": "technical-deep-dive",
+      "targetVentures": ["LeadStorm AI", "Stormbreaker Digital"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 4,
+        "crossLinkPotential": 4,
+        "total": 22
+      },
+      "rationale": "Core LeadStorm AI category positioning. 'Autonomous' modifier matches Matt's brand perfectly. Emerging term with weak authoritative content. Positions LeadStorm as the pioneer in hands-off marketing.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "autonomous-marketing-systems",
+      "estimatedWordCount": 2400,
+      "secondaryKeywords": ["autonomous marketing automation", "AI marketing systems", "self-running marketing campaigns", "automated marketing infrastructure"],
+      "autoPublish": false,
+      "createdAt": "2026-03-03T15:51:00Z"
+    },
+    {
+      "id": "kw-008",
+      "keyword": "AI agent systems architecture",
+      "title": "AI Agent Systems Architecture: Designing Multi-Agent Networks That Scale",
+      "contentType": "technical-deep-dive",
+      "targetVentures": ["OpenClaw"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 3,
+        "crossLinkPotential": 4,
+        "total": 21
+      },
+      "rationale": "Technical authority builder for OpenClaw. Few comprehensive guides exist on architecting multi-agent systems. Attracts engineering-minded audience and establishes Matt as the go-to expert on agent architecture.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "ai-agent-systems-architecture",
+      "estimatedWordCount": 2800,
+      "secondaryKeywords": ["multi-agent architecture", "AI agent orchestration patterns", "distributed AI systems", "agent communication protocols"],
+      "autoPublish": false,
+      "createdAt": "2026-03-03T15:51:00Z"
+    },
+    {
+      "id": "kw-009",
+      "keyword": "autonomous content creation",
+      "title": "Autonomous Content Creation: How AI Agents Produce Content at Scale",
+      "contentType": "how-to-guide",
+      "targetVentures": ["OpenClaw", "LeadStorm AI", "Stormbreaker Digital", "TextEvidence.ai"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 3,
+        "intentMatch": 5,
+        "competition": 3,
+        "crossLinkPotential": 5,
+        "total": 21
+      },
+      "rationale": "Universal application across all ventures—every product uses autonomous content creation. Perfect demonstration of Matt's 'AI agents building products' thesis. High cross-link potential to showcase real implementations.",
+      "priority": "medium",
+      "status": "queued",
+      "suggestedSlug": "autonomous-content-creation",
+      "estimatedWordCount": 2000,
+      "secondaryKeywords": ["AI content automation", "agent-driven content marketing", "automated blog writing AI", "content creation workflows"],
+      "autoPublish": false,
+      "createdAt": "2026-03-03T15:51:00Z"
+    },
+    {
+      "id": "kw-010",
+      "keyword": "how to build a SaaS product in 30 days",
+      "title": "How to Build a SaaS Product in 30 Days: My Proven Framework",
+      "contentType": "case-study",
+      "targetVentures": ["TextEvidence.ai", "Skill Refinery", "CigarSnap", "HeyBaddie", "LeadStorm AI"],
+      "scores": {
+        "entityFit": 4,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 3,
+        "crossLinkPotential": 4,
+        "total": 20
+      },
+      "rationale": "Personal brand story with proven results (5 products built). Strong social proof angle that differentiates from generic startup advice. Can reference all 5 products as evidence. Moderate competition for authentic speed-build stories with actual products.",
+      "priority": "medium",
+      "status": "queued",
+      "suggestedSlug": "how-to-build-saas-product-30-days",
+      "estimatedWordCount": 2600,
+      "secondaryKeywords": ["rapid SaaS development", "30 day MVP", "fast product validation", "solo founder product launch"],
+      "autoPublish": false,
+      "createdAt": "2026-03-03T15:51:00Z"
+    }
+  ],
   "metadata": {
-    "lastUpdated": "2026-02-24T09:15:00Z",
+    "lastUpdated": "2026-03-03T15:51:00Z",
     "totalPublished": 1,
-    "totalQueued": 4,
+    "totalQueued": 9,
     "totalInProgress": 0,
-    "lastResearchDate": "2026-02-23T08:15:00Z",
-    "researcherNote": "Weekly keyword research completed. Top opportunities identified in AI agent teams, marketing automation case studies, legal tech AI, fractional CMO positioning, and personal builder story. All opportunities score 21-23/25 with strong entity fit and content gaps."
+    "lastResearchDate": "2026-03-03T15:51:00Z",
+    "researcherNote": "Weekly keyword research completed March 3, 2026. Added 5 new high-scoring opportunities (20-22/25): law firm marketing automation (cross-venture), autonomous marketing systems (LeadStorm positioning), AI agent architecture (OpenClaw authority), autonomous content creation (universal application), and 30-day SaaS build (personal brand). Queue now has 9 items ready for production."
   }
 }
