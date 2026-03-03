@@ -160,12 +160,13 @@
       },
       "rationale": "Core LeadStorm AI category positioning. 'Autonomous' modifier matches Matt's brand perfectly. Emerging term with weak authoritative content. Positions LeadStorm as the pioneer in hands-off marketing.",
       "priority": "high",
-      "status": "queued",
+      "status": "in-progress",
       "suggestedSlug": "autonomous-marketing-systems",
       "estimatedWordCount": 2400,
       "secondaryKeywords": ["autonomous marketing automation", "AI marketing systems", "self-running marketing campaigns", "automated marketing infrastructure"],
       "autoPublish": false,
-      "createdAt": "2026-03-03T15:51:00Z"
+      "createdAt": "2026-03-03T15:51:00Z",
+      "startedAt": "2026-03-03T21:53:00Z"
     },
     {
       "id": "kw-008",
