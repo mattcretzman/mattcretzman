@@ -139,10 +139,12 @@
       "status": "in-progress",
       "suggestedSlug": "marketing-automation-for-law-firms",
       "estimatedWordCount": 2200,
+      "actualWordCount": 2250,
       "secondaryKeywords": ["law firm marketing automation", "legal marketing software", "attorney lead nurturing", "law practice marketing tools"],
       "autoPublish": false,
       "createdAt": "2026-03-03T15:51:00Z",
-      "startedAt": "2026-03-03T22:14:00Z"
+      "startedAt": "2026-03-03T22:14:00Z",
+      "branch": "content/marketing-automation-law-firms-kw006"
     },
     {
       "id": "kw-007",
