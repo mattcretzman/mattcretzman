@@ -119,8 +119,7 @@
       "secondaryKeywords": ["rapid product development", "AI startup founder", "solo founder AI tools", "bootstrapped SaaS AI"],
       "autoPublish": false,
       "createdAt": "2026-02-23T08:15:00Z"
-    }
-  ],
+    },
     {
       "id": "kw-006",
       "keyword": "marketing automation for law firms",
@@ -241,14 +240,106 @@
       "secondaryKeywords": ["rapid SaaS development", "30 day MVP", "fast product validation", "solo founder product launch"],
       "autoPublish": false,
       "createdAt": "2026-03-03T15:51:00Z"
+    },
+    {
+      "id": "kw-011",
+      "keyword": "AI agent vs chatbot difference",
+      "title": "AI Agent vs Chatbot: The Critical Difference Most Companies Miss",
+      "contentType": "how-to-guide",
+      "targetVentures": ["OpenClaw", "Stormbreaker Digital", "LeadStorm AI"],
+      "scores": {
+        "entityFit": 4,
+        "contentGap": 5,
+        "intentMatch": 5,
+        "competition": 4,
+        "crossLinkPotential": 4,
+        "total": 22
+      },
+      "rationale": "Educational cornerstone content bridging AI agent expertise to all ventures. High search volume for comparison terms with weak authoritative explanations. Perfect entry point for prospects researching AI solutions.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "ai-agent-vs-chatbot-difference",
+      "estimatedWordCount": 1800,
+      "secondaryKeywords": ["AI agent vs bot", "chatbot vs autonomous agent", "what is an AI agent", "AI agent capabilities"],
+      "autoPublish": false,
+      "createdAt": "2026-03-03T22:12:00Z"
+    },
+    {
+      "id": "kw-012",
+      "keyword": "AI coaching platform",
+      "title": "AI Coaching Platforms: How Technology Is Transforming Professional Development",
+      "contentType": "how-to-guide",
+      "targetVentures": ["Skill Refinery"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 5,
+        "crossLinkPotential": 3,
+        "total": 22
+      },
+      "rationale": "Skill Refinery vertical positioning. Emerging category with very low competition and high commercial intent from enterprises seeking scalable coaching solutions. Establishes Matt's presence in the HR tech / L&D space.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "ai-coaching-platform",
+      "estimatedWordCount": 2000,
+      "secondaryKeywords": ["AI-powered coaching", "digital coaching platform", "automated professional development", "AI mentorship tools"],
+      "autoPublish": false,
+      "createdAt": "2026-03-03T22:12:00Z"
+    },
+    {
+      "id": "kw-013",
+      "keyword": "legal document automation",
+      "title": "Legal Document Automation: A Complete Guide for Modern Law Firms",
+      "contentType": "how-to-guide",
+      "targetVentures": ["TextEvidence.ai"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 4,
+        "crossLinkPotential": 3,
+        "total": 21
+      },
+      "rationale": "TextEvidence.ai angle — broader than text message focus. Higher search volume with strong commercial intent from law firms. Complements existing family law content while expanding into general legal automation.",
+      "priority": "medium",
+      "status": "queued",
+      "suggestedSlug": "legal-document-automation",
+      "estimatedWordCount": 2200,
+      "secondaryKeywords": ["law firm document automation", "legal contract automation", "automated legal document generation", "AI legal documents"],
+      "autoPublish": false,
+      "createdAt": "2026-03-03T22:12:00Z"
+    },
+    {
+      "id": "kw-014",
+      "keyword": "autonomous AI agents",
+      "title": "Autonomous AI Agents: What They Are and How They Work",
+      "contentType": "how-to-guide",
+      "targetVentures": ["OpenClaw", "LeadStorm AI", "Stormbreaker Digital"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 3,
+        "crossLinkPotential": 4,
+        "total": 21
+      },
+      "rationale": "Core pillar term — broader catch-all entry point for Matt's primary expertise. Weak existing authoritative content. High potential to capture early-stage research traffic and funnel to more specific content.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "autonomous-ai-agents",
+      "estimatedWordCount": 1900,
+      "secondaryKeywords": ["what are autonomous AI agents", "autonomous agent AI", "self-directed AI agents", "autonomous AI systems"],
+      "autoPublish": false,
+      "createdAt": "2026-03-03T22:12:00Z"
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-03T15:51:00Z",
-    "totalPublished": 1,
-    "totalQueued": 9,
+    "lastUpdated": "2026-03-03T22:12:00Z",
+    "totalPublished": 2,
+    "totalQueued": 12,
     "totalInProgress": 0,
-    "lastResearchDate": "2026-03-03T15:51:00Z",
-    "researcherNote": "Weekly keyword research completed March 3, 2026. Added 5 new high-scoring opportunities (20-22/25): law firm marketing automation (cross-venture), autonomous marketing systems (LeadStorm positioning), AI agent architecture (OpenClaw authority), autonomous content creation (universal application), and 30-day SaaS build (personal brand). Queue now has 9 items ready for production."
+    "lastResearchDate": "2026-03-03T22:12:00Z",
+    "researcherNote": "Weekly keyword research completed March 3, 2026. Added 4 new high-scoring opportunities (21-22/25): AI agent vs chatbot (cornerstone educational), AI coaching platform (Skill Refinery vertical), legal document automation (TextEvidence expansion), autonomous AI agents (pillar term). Queue now has 12 items ready for production."
   }
 }
