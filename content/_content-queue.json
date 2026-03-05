@@ -292,15 +292,18 @@
       },
       "rationale": "Skill Refinery vertical positioning. Emerging category with very low competition and high commercial intent from enterprises seeking scalable coaching solutions. Establishes Matt's presence in the HR tech / L&D space.",
       "priority": "high",
-      "status": "seo-review",
+      "status": "published",
       "startedAt": "2026-03-05T15:01:00Z",
+      "publishedAt": "2026-03-05T15:08:00Z",
       "branch": "content/ai-coaching-platform-kw012",
       "suggestedSlug": "ai-coaching-platform",
       "actualWordCount": 2200,
       "estimatedWordCount": 2000,
       "secondaryKeywords": ["AI-powered coaching", "digital coaching platform", "automated professional development", "AI mentorship tools"],
       "autoPublish": false,
-      "createdAt": "2026-03-03T22:12:00Z"
+      "createdAt": "2026-03-03T22:12:00Z",
+      "seoEditorScore": 94,
+      "url": "/blog/ai-coaching-platform"
     },
     {
       "id": "kw-013",
