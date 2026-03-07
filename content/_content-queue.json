@@ -44,12 +44,18 @@
       },
       "rationale": "Core IP area for Matt with OpenClaw. Few comprehensive guides exist on building multi-agent systems that actually work together. Positions Matt as the authority on autonomous AI teams.",
       "priority": "high",
-      "status": "queued",
+      "status": "published",
       "suggestedSlug": "how-to-build-autonomous-ai-agent-teams",
       "estimatedWordCount": 2500,
+      "actualWordCount": 2538,
       "secondaryKeywords": ["multi-agent AI architecture", "AI agent orchestration", "autonomous agent workflow", "OpenClaw agents"],
       "autoPublish": false,
-      "createdAt": "2026-02-23T08:15:00Z"
+      "createdAt": "2026-02-23T08:15:00Z",
+      "startedAt": "2026-03-07T15:00:00Z",
+      "publishedAt": "2026-03-07T15:05:00Z",
+      "branch": "content/autonomous-ai-agent-teams-kw002",
+      "seoEditorScore": 95,
+      "url": "/blog/how-to-build-autonomous-ai-agent-teams"
     },
     {
       "id": "kw-003",
@@ -353,9 +359,9 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-05T15:08:00Z",
-    "totalPublished": 4,
-    "totalQueued": 10,
+    "lastUpdated": "2026-03-07T15:05:00Z",
+    "totalPublished": 5,
+    "totalQueued": 9,
     "totalInProgress": 0,
     "lastResearchDate": "2026-03-03T22:12:00Z",
     "researcherNote": "Weekly keyword research completed March 3, 2026. Added 4 new high-scoring opportunities (21-22/25): AI agent vs chatbot (cornerstone educational), AI coaching platform (Skill Refinery vertical), legal document automation (TextEvidence expansion), autonomous AI agents (pillar term). Queue now has 12 items ready for production."
