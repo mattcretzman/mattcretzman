@@ -489,12 +489,14 @@
       },
       "rationale": "High-value cross-venture opportunity combining TextEvidence's legal domain authority with Stormbreaker's automation expertise. Law firms actively seeking competitive advantage through technology. Strong commercial intent with budget authority. Positions both ventures as thought leaders in legal tech transformation.",
       "priority": "high",
-      "status": "queued",
+      "status": "in-progress",
       "suggestedSlug": "law-firm-automation-tools",
       "estimatedWordCount": 2400,
       "secondaryKeywords": ["legal practice automation", "law office automation software", "attorney workflow automation", "legal tech tools 2025"],
       "autoPublish": false,
-      "createdAt": "2026-03-17T01:32:00Z"
+      "createdAt": "2026-03-17T01:32:00Z",
+      "startedAt": "2026-03-16T20:34:00Z",
+      "branch": "content/law-firm-automation-tools-kw020"
     },
     {
       "id": "kw-021",
