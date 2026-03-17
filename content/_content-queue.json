@@ -374,12 +374,14 @@
       },
       "rationale": "High commercial intent keyword with significant search volume. Most existing content is from competitor fractional CMOs without Matt's AI-forward angle. Perfect opportunity to educate while positioning Stormbreaker's unique value proposition. Directly captures prospects in evaluation phase.",
       "priority": "high",
-      "status": "queued",
+      "status": "in-progress",
       "suggestedSlug": "how-much-does-fractional-cmo-cost",
       "estimatedWordCount": 2000,
       "secondaryKeywords": ["fractional CMO rates", "fractional CMO pricing", "outsourced CMO cost", "part-time CMO salary"],
       "autoPublish": false,
-      "createdAt": "2026-03-09T08:00:00Z"
+      "createdAt": "2026-03-09T08:00:00Z",
+      "startedAt": "2026-03-17T09:03:00Z",
+      "branch": "content/fractional-cmo-cost-kw015"
     },
     {
       "id": "kw-016",
