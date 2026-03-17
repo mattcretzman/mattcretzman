@@ -472,14 +472,129 @@
       "secondaryKeywords": ["AI tools for founders", "solo entrepreneur AI stack", "one-person business AI", "indie hacker AI tools"],
       "autoPublish": false,
       "createdAt": "2026-03-09T08:00:00Z"
+    },
+    {
+      "id": "kw-020",
+      "keyword": "law firm automation tools",
+      "title": "Law Firm Automation Tools: The 2025 Guide to a Modern Practice",
+      "contentType": "how-to-guide",
+      "targetVentures": ["TextEvidence.ai", "Stormbreaker Digital"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 4,
+        "crossLinkPotential": 5,
+        "total": 23
+      },
+      "rationale": "High-value cross-venture opportunity combining TextEvidence's legal domain authority with Stormbreaker's automation expertise. Law firms actively seeking competitive advantage through technology. Strong commercial intent with budget authority. Positions both ventures as thought leaders in legal tech transformation.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "law-firm-automation-tools",
+      "estimatedWordCount": 2400,
+      "secondaryKeywords": ["legal practice automation", "law office automation software", "attorney workflow automation", "legal tech tools 2025"],
+      "autoPublish": false,
+      "createdAt": "2026-03-17T01:32:00Z"
+    },
+    {
+      "id": "kw-021",
+      "keyword": "AI agent workflow automation",
+      "title": "AI Agent Workflow Automation: Building Self-Running Business Processes",
+      "contentType": "technical-deep-dive",
+      "targetVentures": ["OpenClaw", "LeadStorm AI", "Stormbreaker Digital"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 3,
+        "crossLinkPotential": 4,
+        "total": 21
+      },
+      "rationale": "Core OpenClaw expertise with practical applications across all ventures. 'Workflow automation' has higher search volume than pure 'AI agent' terms. Lower competition than generic AI content. Demonstrates real implementation of autonomous systems with concrete business outcomes.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "ai-agent-workflow-automation",
+      "estimatedWordCount": 2200,
+      "secondaryKeywords": ["automated workflow AI", "AI process automation", "agent-driven workflows", "autonomous business processes"],
+      "autoPublish": false,
+      "createdAt": "2026-03-17T01:32:00Z"
+    },
+    {
+      "id": "kw-022",
+      "keyword": "marketing automation tools comparison 2025",
+      "title": "Marketing Automation Tools Comparison 2025: An Honest Buyer's Guide",
+      "contentType": "how-to-guide",
+      "targetVentures": ["Stormbreaker Digital", "LeadStorm AI"],
+      "scores": {
+        "entityFit": 4,
+        "contentGap": 5,
+        "intentMatch": 5,
+        "competition": 3,
+        "crossLinkPotential": 4,
+        "total": 21
+      },
+      "rationale": "High commercial intent from buyers in evaluation phase. Few authentic 2025 comparisons exist—most are affiliate farms. Matt's practitioner perspective using tools for real clients adds credibility. Opportunity to naturally position LeadStorm AI as the evolved solution.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "marketing-automation-tools-comparison-2025",
+      "estimatedWordCount": 2500,
+      "secondaryKeywords": ["best marketing automation software 2025", "marketing automation platform comparison", "email automation tools compared", "B2B marketing automation software"],
+      "autoPublish": false,
+      "createdAt": "2026-03-17T01:32:00Z"
+    },
+    {
+      "id": "kw-023",
+      "keyword": "best framework for multi-agent AI systems",
+      "title": "Best Frameworks for Multi-Agent AI Systems: A Developer's Guide",
+      "contentType": "technical-deep-dive",
+      "targetVentures": ["OpenClaw"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 4,
+        "intentMatch": 4,
+        "competition": 3,
+        "crossLinkPotential": 4,
+        "total": 20
+      },
+      "rationale": "Technical authority builder targeting developers and engineering leaders. Few practical comparisons from practitioners building real multi-agent systems. Complements existing architecture content with framework-specific guidance. Attracts high-value technical decision-makers evaluating OpenClaw.",
+      "priority": "medium",
+      "status": "queued",
+      "suggestedSlug": "best-framework-multi-agent-ai-systems",
+      "estimatedWordCount": 2600,
+      "secondaryKeywords": ["multi-agent frameworks compared", "AI agent development frameworks", "Autogen vs LangChain agents", "crewAI vs OpenClaw"],
+      "autoPublish": false,
+      "createdAt": "2026-03-17T01:32:00Z"
+    },
+    {
+      "id": "kw-024",
+      "keyword": "bootstrapped SaaS founder",
+      "title": "Bootstrapped SaaS Founder: Lessons from Building 5 Products to Profitability",
+      "contentType": "case-study",
+      "targetVentures": ["TextEvidence.ai", "Skill Refinery", "CigarSnap", "HeyBaddie", "LeadStorm AI"],
+      "scores": {
+        "entityFit": 4,
+        "contentGap": 4,
+        "intentMatch": 4,
+        "competition": 3,
+        "crossLinkPotential": 5,
+        "total": 20
+      },
+      "rationale": "Personal brand storytelling with authentic results. 'Bootstrapped' angle differentiates from VC-funded founder content. Maximum cross-link potential—can reference all 5 products as proof points. Strong social proof for prospects researching Matt's background and credibility.",
+      "priority": "medium",
+      "status": "queued",
+      "suggestedSlug": "bootstrapped-saas-founder",
+      "estimatedWordCount": 2400,
+      "secondaryKeywords": ["bootstrapped startup founder", "self-funded SaaS success", "solo bootstrap founder", "bootstrapped product journey"],
+      "autoPublish": false,
+      "createdAt": "2026-03-17T01:32:00Z"
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-09T08:00:00Z",
+    "lastUpdated": "2026-03-17T01:32:00Z",
     "totalPublished": 5,
-    "totalQueued": 14,
+    "totalQueued": 19,
     "totalInProgress": 0,
-    "lastResearchDate": "2026-03-09T08:00:00Z",
-    "researcherNote": "Weekly keyword research completed March 9, 2026. Added 5 new high-scoring opportunities (21-22/25): fractional CMO cost (high commercial intent), AI for family law (TextEvidence TOFU), SaaS marketing automation (vertical expansion), AI agent orchestration (technical depth), solo founder AI tools (personal brand + cross-link). Queue now has 14 items ready for production."
+    "lastResearchDate": "2026-03-17T01:32:00Z",
+    "researcherNote": "Weekly keyword research completed March 16, 2026. Added 5 new high-scoring opportunities (20-23/25): law firm automation tools (23/25 - cross-venture TextEvidence + Stormbreaker), AI agent workflow automation (21/25 - OpenClaw core), marketing automation tools comparison 2025 (21/25 - buyer intent), best framework multi-agent AI (20/25 - technical authority), bootstrapped SaaS founder (20/25 - personal brand). Queue now has 19 items ready for production."
   }
 }
