@@ -361,7 +361,7 @@
     {
       "id": "kw-015",
       "keyword": "how much does a fractional CMO cost",
-      "title": "How Much Does a Fractional CMO Cost in 2025? A Complete Pricing Breakdown",
+      "title": "Fractional CMO Cost in 2025: Complete Pricing Breakdown",
       "contentType": "how-to-guide",
       "targetVentures": ["Stormbreaker Digital"],
       "scores": {
@@ -374,14 +374,18 @@
       },
       "rationale": "High commercial intent keyword with significant search volume. Most existing content is from competitor fractional CMOs without Matt's AI-forward angle. Perfect opportunity to educate while positioning Stormbreaker's unique value proposition. Directly captures prospects in evaluation phase.",
       "priority": "high",
-      "status": "in-progress",
+      "status": "published",
       "suggestedSlug": "how-much-does-fractional-cmo-cost",
       "estimatedWordCount": 2000,
+      "actualWordCount": 2150,
       "secondaryKeywords": ["fractional CMO rates", "fractional CMO pricing", "outsourced CMO cost", "part-time CMO salary"],
       "autoPublish": false,
       "createdAt": "2026-03-09T08:00:00Z",
       "startedAt": "2026-03-17T09:03:00Z",
-      "branch": "content/fractional-cmo-cost-kw015"
+      "publishedAt": "2026-03-17T09:07:00Z",
+      "branch": "content/fractional-cmo-cost-kw015",
+      "seoEditorScore": 97,
+      "url": "/blog/how-much-does-fractional-cmo-cost"
     },
     {
       "id": "kw-016",
