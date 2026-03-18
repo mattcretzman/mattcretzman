@@ -202,12 +202,14 @@
       },
       "rationale": "Technical authority builder for OpenClaw. Few comprehensive guides exist on architecting multi-agent systems. Attracts engineering-minded audience and establishes Matt as the go-to expert on agent architecture.",
       "priority": "high",
-      "status": "queued",
+      "status": "in-progress",
       "suggestedSlug": "ai-agent-systems-architecture",
       "estimatedWordCount": 2800,
       "secondaryKeywords": ["multi-agent architecture", "AI agent orchestration patterns", "distributed AI systems", "agent communication protocols"],
       "autoPublish": false,
-      "createdAt": "2026-03-03T15:51:00Z"
+      "createdAt": "2026-03-03T15:51:00Z",
+      "startedAt": "2026-03-18T09:05:00Z",
+      "branch": "content/ai-agent-systems-architecture-kw008"
     },
     {
       "id": "kw-009",
