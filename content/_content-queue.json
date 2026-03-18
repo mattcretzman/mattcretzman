@@ -73,12 +73,14 @@
       },
       "rationale": "Extremely niche keyword with virtually no competition. Direct product connection to TextEvidence.ai. Demonstrates real AI application in legal tech. Easy win for ranking.",
       "priority": "high",
-      "status": "queued",
+      "status": "in-progress",
       "suggestedSlug": "ai-text-message-evidence-family-law",
       "estimatedWordCount": 1800,
       "secondaryKeywords": ["text message evidence analysis", "AI for divorce attorneys", "legal document AI", "family law technology"],
       "autoPublish": false,
-      "createdAt": "2026-02-23T08:15:00Z"
+      "createdAt": "2026-02-23T08:15:00Z",
+      "startedAt": "2026-03-17T09:03:00Z",
+      "branch": "content/ai-text-message-evidence-kw003"
     },
     {
       "id": "kw-004",
@@ -350,12 +352,14 @@
       },
       "rationale": "Core pillar term — broader catch-all entry point for Matt's primary expertise. Weak existing authoritative content. High potential to capture early-stage research traffic and funnel to more specific content.",
       "priority": "high",
-      "status": "queued",
+      "status": "in-progress",
       "suggestedSlug": "autonomous-ai-agents",
       "estimatedWordCount": 1900,
       "secondaryKeywords": ["what are autonomous AI agents", "autonomous agent AI", "self-directed AI agents", "autonomous AI systems"],
       "autoPublish": false,
-      "createdAt": "2026-03-03T22:12:00Z"
+      "createdAt": "2026-03-03T22:12:00Z",
+      "startedAt": "2026-03-18T09:05:00Z",
+      "branch": "content/autonomous-ai-agents-kw014"
     }
   ],
     {
