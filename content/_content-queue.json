@@ -567,12 +567,14 @@
       },
       "rationale": "High commercial intent from buyers in evaluation phase. Few authentic 2025 comparisons exist—most are affiliate farms. Matt's practitioner perspective using tools for real clients adds credibility. Opportunity to naturally position LeadStorm AI as the evolved solution.",
       "priority": "high",
-      "status": "queued",
+      "status": "in-progress",
       "suggestedSlug": "marketing-automation-tools-comparison-2025",
       "estimatedWordCount": 2500,
       "secondaryKeywords": ["best marketing automation software 2025", "marketing automation platform comparison", "email automation tools compared", "B2B marketing automation software"],
       "autoPublish": false,
-      "createdAt": "2026-03-17T01:32:00Z"
+      "createdAt": "2026-03-17T01:32:00Z",
+      "startedAt": "2026-03-19T09:12:00Z",
+      "branch": "content/marketing-automation-tools-comparison-kw022"
     },
     {
       "id": "kw-023",
