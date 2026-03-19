@@ -1,7 +1,7 @@
 ---
 title: "AI Agent Workflow Automation: Building Self-Running Business Processes"
 slug: "ai-agent-workflow-automation"
-description: "Learn how AI agent workflow automation differs from traditional automation. Real implementation examples from 5 products, with architecture patterns that actually work."
+description: "Learn how AI agent workflow automation differs from traditional automation. Get real implementation examples from 5 products and architecture patterns you can deploy this weekend."
 date: "2026-03-19"
 author: "Matt Cretzman"
 tags: ["AI agents", "workflow automation", "autonomous systems", "OpenClaw", "business process automation"]
@@ -15,11 +15,11 @@ readingTime: 9 minutes
 ventures: ["OpenClaw", "LeadStorm AI", "Stormbreaker Digital"]
 ---
 
-Most companies waste 6 months debating AI strategy. We deployed our first autonomous agent in 2 weeks.
+Most companies waste 6 months debating AI strategy. We deployed our first AI agent workflow automation in 2 weeks.
 
 Not because we're smarter. Because we stopped treating AI like traditional automation and started treating it like a team member with a job description.
 
-Here's what I learned building self-running workflows across five companies—and why the difference between "automation" and "agent-driven workflows" determines whether your AI project succeeds or becomes another expensive experiment.
+Here's what I learned building agent-driven workflows across five companies—and why the difference between "automation" and "agent-driven workflows" determines whether your AI project succeeds or becomes another expensive experiment.
 
 ## Table of Contents
 
@@ -52,7 +52,7 @@ The AI agent approach? Give it the goal ("identify high-intent prospects"), acce
 
 Same task. Completely different outcome.
 
-## The Architecture That Actually Works
+## The AI Process Automation Architecture That Actually Works
 
 After building agent systems for TextEvidence.ai, Skill Refinery, CigarSnap, HeyBaddie, and LeadStorm AI, a pattern emerged. Every successful implementation follows the same three-layer architecture:
 
@@ -64,7 +64,7 @@ Agents need to see before they can act. This layer handles:
 - **Context gathering:** Pulling relevant history, user data, and previous decisions
 - **Intent classification:** Understanding what the user actually wants (not just what they typed)
 
-For TextEvidence.ai, the perception layer ingests text message exports from dozens of phone carriers—each with different formats—and normalizes them into a consistent conversation timeline. Without this, the analysis agent would need to understand every carrier's quirks.
+For [TextEvidence.ai](https://textevidence.ai), the perception layer ingests text message exports from dozens of phone carriers—each with different formats—and normalizes them into a consistent conversation timeline. Without this, the analysis agent would need to understand every carrier's quirks.
 
 ### Layer 2: The Reasoning Layer
 
@@ -77,7 +77,7 @@ Instead, break reasoning into discrete steps:
 3. **Execute:** Perform each action, gathering new information as needed
 4. **Verify:** Did we actually achieve the goal? If not, iterate.
 
-OpenClaw implements this as a state machine. Each state has a specific prompt template. Transitions happen when the agent produces structured output signaling completion—or when it hits a constraint requiring human escalation.
+[OpenClaw](https://openclaw.io) implements this as a state machine. Each state has a specific prompt template. Transitions happen when the agent produces structured output signaling completion—or when it hits a constraint requiring human escalation.
 
 ```
 [RECEIVE_INPUT] → [ANALYZE_CONTEXT] → [PLAN_ACTIONS] → [EXECUTE_STEP] → [VERIFY_RESULT]
@@ -101,7 +101,7 @@ Critical insight: **Every action must have a human-in-the-loop option.** Not bec
 
 ## Real Implementation: LeadStorm's Qualification Engine
 
-Theory is cheap. Here's exactly how we built LeadStorm's autonomous qualification workflow.
+Theory is cheap. Here's exactly how we built [LeadStorm AI's](https://leadstorm.ai) autonomous qualification workflow.
 
 ### The Challenge
 
