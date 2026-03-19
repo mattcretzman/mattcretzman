@@ -538,12 +538,14 @@
       },
       "rationale": "Core OpenClaw expertise with practical applications across all ventures. 'Workflow automation' has higher search volume than pure 'AI agent' terms. Lower competition than generic AI content. Demonstrates real implementation of autonomous systems with concrete business outcomes.",
       "priority": "high",
-      "status": "queued",
+      "status": "in-progress",
       "suggestedSlug": "ai-agent-workflow-automation",
       "estimatedWordCount": 2200,
       "secondaryKeywords": ["automated workflow AI", "AI process automation", "agent-driven workflows", "autonomous business processes"],
       "autoPublish": false,
-      "createdAt": "2026-03-17T01:32:00Z"
+      "createdAt": "2026-03-17T01:32:00Z",
+      "startedAt": "2026-03-19T09:06:00Z",
+      "branch": "content/ai-agent-workflow-automation-kw021"
     },
     {
       "id": "kw-022",
