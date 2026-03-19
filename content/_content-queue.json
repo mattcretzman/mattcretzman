@@ -417,12 +417,14 @@
       },
       "rationale": "Broader than the text message evidence angle already queued. Captures family law attorneys researching AI adoption generally. Lower competition than general legal AI terms. Perfect top-of-funnel content that can funnel to TextEvidence.ai product pages.",
       "priority": "high",
-      "status": "queued",
+      "status": "in-progress",
       "suggestedSlug": "ai-for-family-law-attorneys",
       "estimatedWordCount": 2200,
       "secondaryKeywords": ["AI tools for divorce lawyers", "family law technology", "AI legal research family law", "automated family law documents"],
       "autoPublish": false,
-      "createdAt": "2026-03-09T08:00:00Z"
+      "createdAt": "2026-03-09T08:00:00Z",
+      "startedAt": "2026-03-19T09:20:00Z",
+      "branch": "content/ai-for-family-law-attorneys-kw016"
     },
     {
       "id": "kw-017",
