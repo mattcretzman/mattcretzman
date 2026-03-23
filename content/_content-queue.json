@@ -635,14 +635,129 @@
       "secondaryKeywords": ["bootstrapped startup founder", "self-funded SaaS success", "solo bootstrap founder", "bootstrapped product journey"],
       "autoPublish": false,
       "createdAt": "2026-03-17T01:32:00Z"
+    },
+    {
+      "id": "kw-025",
+      "keyword": "how to analyze text message evidence faster",
+      "title": "How to Analyze Text Message Evidence Faster: AI-Powered Techniques for Attorneys",
+      "contentType": "how-to-guide",
+      "targetVentures": ["TextEvidence.ai"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 5,
+        "intentMatch": 5,
+        "competition": 5,
+        "crossLinkPotential": 3,
+        "total": 23
+      },
+      "rationale": "Direct problem-solution fit for TextEvidence.ai. Family law attorneys actively search for ways to speed up evidence review. No authoritative content exists showing practical AI techniques. Perfect top-of-funnel content with natural product integration.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "how-to-analyze-text-message-evidence-faster",
+      "estimatedWordCount": 1800,
+      "secondaryKeywords": ["text message evidence review", "fast evidence analysis", "AI text analysis legal", "divorce evidence processing"],
+      "autoPublish": false,
+      "createdAt": "2026-03-23T08:01:00Z"
+    },
+    {
+      "id": "kw-026",
+      "keyword": "legal tech stack for small law firms",
+      "title": "Legal Tech Stack for Small Law Firms: The Essential 2025 Guide",
+      "contentType": "how-to-guide",
+      "targetVentures": ["TextEvidence.ai", "Stormbreaker Digital"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 4,
+        "crossLinkPotential": 5,
+        "total": 23
+      },
+      "rationale": "Cross-venture opportunity combining TextEvidence's legal expertise with Stormbreaker's automation knowledge. Small law firms actively researching complete tech solutions. Can naturally include both products in broader stack recommendations.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "legal-tech-stack-small-law-firms",
+      "estimatedWordCount": 2200,
+      "secondaryKeywords": ["law firm software stack", "small law firm technology", "legal practice software", "attorney tech tools"],
+      "autoPublish": false,
+      "createdAt": "2026-03-23T08:01:00Z"
+    },
+    {
+      "id": "kw-027",
+      "keyword": "marketing automation ROI calculator",
+      "title": "Marketing Automation ROI Calculator: Calculate Your Potential Savings",
+      "contentType": "tool",
+      "targetVentures": ["LeadStorm AI", "Stormbreaker Digital"],
+      "scores": {
+        "entityFit": 4,
+        "contentGap": 5,
+        "intentMatch": 5,
+        "competition": 4,
+        "crossLinkPotential": 4,
+        "total": 22
+      },
+      "rationale": "Interactive tool opportunity with high commercial intent. Prospects researching marketing automation want concrete ROI numbers before investing. Few authentic calculators exist. Drives qualified leads while demonstrating LeadStorm AI's value.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "marketing-automation-roi-calculator",
+      "estimatedWordCount": 1500,
+      "secondaryKeywords": ["marketing automation ROI", "automation savings calculator", "marketing automation payback", "email automation ROI"],
+      "autoPublish": false,
+      "createdAt": "2026-03-23T08:01:00Z"
+    },
+    {
+      "id": "kw-028",
+      "keyword": "scaling coaching with AI",
+      "title": "Scaling Coaching with AI: How Advisory Firms Can Serve 10x More Clients",
+      "contentType": "how-to-guide",
+      "targetVentures": ["Skill Refinery"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 5,
+        "intentMatch": 5,
+        "competition": 5,
+        "crossLinkPotential": 3,
+        "total": 23
+      },
+      "rationale": "Skill Refinery vertical with virtually no competition. Advisory firms and coaching businesses actively seeking scalability solutions. Direct product connection to Skill Refinery's AI coaching platform. Strong commercial intent from enterprise buyers.",
+      "priority": "high",
+      "status": "queued",
+      "suggestedSlug": "scaling-coaching-with-ai",
+      "estimatedWordCount": 2000,
+      "secondaryKeywords": ["AI coaching scalability", "automated coaching programs", "coaching business automation", "AI-powered advisory"],
+      "autoPublish": false,
+      "createdAt": "2026-03-23T08:01:00Z"
+    },
+    {
+      "id": "kw-029",
+      "keyword": "cigar collection management",
+      "title": "Cigar Collection Management: The Complete Guide for Enthusiasts",
+      "contentType": "how-to-guide",
+      "targetVentures": ["CigarSnap"],
+      "scores": {
+        "entityFit": 5,
+        "contentGap": 4,
+        "intentMatch": 5,
+        "competition": 4,
+        "crossLinkPotential": 2,
+        "total": 20
+      },
+      "rationale": "CigarSnap product content opportunity. Cigar enthusiasts actively search for collection organization methods. Moderate competition with opportunity for app-integrated approach. Demonstrates Matt's diverse product portfolio while serving niche community.",
+      "priority": "medium",
+      "status": "queued",
+      "suggestedSlug": "cigar-collection-management",
+      "estimatedWordCount": 1800,
+      "secondaryKeywords": ["cigar inventory management", "cigar humidor tracking", "cigar collection app", "cigar organization tips"],
+      "autoPublish": false,
+      "createdAt": "2026-03-23T08:01:00Z"
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-19T09:25:00Z",
+    "lastUpdated": "2026-03-23T08:01:00Z",
     "totalPublished": 17,
-    "totalQueued": 7,
+    "totalQueued": 12,
     "totalInProgress": 0,
-    "lastResearchDate": "2026-03-17T01:32:00Z",
-    "researcherNote": "Weekly keyword research completed March 16, 2026. Added 5 new high-scoring opportunities (20-23/25): law firm automation tools (23/25 - cross-venture TextEvidence + Stormbreaker), AI agent workflow automation (21/25 - OpenClaw core), marketing automation tools comparison 2025 (21/25 - buyer intent), best framework multi-agent AI (20/25 - technical authority), bootstrapped SaaS founder (20/25 - personal brand). Queue now has 19 items ready for production."
+    "lastResearchDate": "2026-03-23T08:01:00Z",
+    "researcherNote": "Weekly keyword research completed March 23, 2026. Added 5 new high-scoring opportunities (20-23/25): how to analyze text message evidence faster (23/25 - TextEvidence direct fit), legal tech stack for small law firms (23/25 - cross-venture), marketing automation ROI calculator (22/25 - tool opportunity), scaling coaching with AI (23/25 - Skill Refinery), cigar collection management (20/25 - CigarSnap). Queue now has 12 items ready for production."
   }
 }
