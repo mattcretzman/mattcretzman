@@ -652,12 +652,18 @@
       },
       "rationale": "Direct problem-solution fit for TextEvidence.ai. Family law attorneys actively search for ways to speed up evidence review. No authoritative content exists showing practical AI techniques. Perfect top-of-funnel content with natural product integration.",
       "priority": "high",
-      "status": "queued",
+      "status": "published",
       "suggestedSlug": "how-to-analyze-text-message-evidence-faster",
       "estimatedWordCount": 1800,
+      "actualWordCount": 1890,
       "secondaryKeywords": ["text message evidence review", "fast evidence analysis", "AI text analysis legal", "divorce evidence processing"],
       "autoPublish": false,
-      "createdAt": "2026-03-23T08:01:00Z"
+      "createdAt": "2026-03-23T08:01:00Z",
+      "startedAt": "2026-03-27T09:02:00Z",
+      "publishedAt": "2026-03-27T09:12:00Z",
+      "branch": "content/analyze-text-messages-faster-kw025",
+      "seoEditorScore": 99,
+      "url": "/blog/how-to-analyze-text-message-evidence-faster"
     },
     {
       "id": "kw-026",
@@ -675,12 +681,14 @@
       },
       "rationale": "Cross-venture opportunity combining TextEvidence's legal expertise with Stormbreaker's automation knowledge. Small law firms actively researching complete tech solutions. Can naturally include both products in broader stack recommendations.",
       "priority": "high",
-      "status": "queued",
+      "status": "in-progress",
       "suggestedSlug": "legal-tech-stack-small-law-firms",
       "estimatedWordCount": 2200,
       "secondaryKeywords": ["law firm software stack", "small law firm technology", "legal practice software", "attorney tech tools"],
       "autoPublish": false,
-      "createdAt": "2026-03-23T08:01:00Z"
+      "createdAt": "2026-03-23T08:01:00Z",
+      "startedAt": "2026-03-28T09:00:00Z",
+      "branch": "content/legal-tech-stack-small-law-firms-kw026"
     },
     {
       "id": "kw-027",
