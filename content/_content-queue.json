@@ -681,14 +681,18 @@
       },
       "rationale": "Cross-venture opportunity combining TextEvidence's legal expertise with Stormbreaker's automation knowledge. Small law firms actively researching complete tech solutions. Can naturally include both products in broader stack recommendations.",
       "priority": "high",
-      "status": "in-progress",
+      "status": "published",
       "suggestedSlug": "legal-tech-stack-small-law-firms",
       "estimatedWordCount": 2200,
+      "actualWordCount": 2400,
       "secondaryKeywords": ["law firm software stack", "small law firm technology", "legal practice software", "attorney tech tools"],
       "autoPublish": false,
       "createdAt": "2026-03-23T08:01:00Z",
       "startedAt": "2026-03-28T09:00:00Z",
-      "branch": "content/legal-tech-stack-small-law-firms-kw026"
+      "publishedAt": "2026-03-28T09:30:00Z",
+      "branch": "content/legal-tech-stack-small-law-firms-kw026",
+      "seoEditorScore": 95,
+      "url": "/blog/legal-tech-stack-small-law-firms"
     },
     {
       "id": "kw-027",
